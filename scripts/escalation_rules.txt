@@ -1,0 +1,14 @@
+Escalate to a human when:
+
+- The user is upset/frustrated.
+- The question involves billing disputes or legal issues.
+- The user requests directly: "I want to talk to a human."
+- The AI cannot confidently answer after 2 attempts.
+
+When escalating, collect:
+- Name
+- Email
+- Phone (if available)
+- Summary of the issue
+
+Then pass to: support@{{business}}.com or into the CRM/helpdesk.
