@@ -1,0 +1,20 @@
+DEMO SCRIPT – AI CUSTOMER SERVICE AGENT
+
+1. Show a user asking:
+   "What time do you open on Saturdays?"
+
+2. Show AI replying:
+   "We’re open from 9am to 4pm on Saturdays. 😊"
+
+3. Show user asking:
+   "Do you offer refunds?"
+
+4. Show AI replying with the refund policy.
+
+5. Show a more complex question:
+   "I was double charged last month."
+
+6. Show AI:
+   - Apologizing
+   - Collecting details
+   - Escalating to a human
