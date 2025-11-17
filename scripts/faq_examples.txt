@@ -1,0 +1,12 @@
+Example FAQs this agent can answer:
+
+1. What are your business hours?
+2. Where are you located?
+3. What services/products do you offer?
+4. How much does {{service}} cost?
+5. How do I book an appointment?
+6. What is your refund/cancellation policy?
+7. Do you accept insurance / payment plans?
+8. How can I contact support directly?
+
+Each of these should have a short, clear answer customized per client.
