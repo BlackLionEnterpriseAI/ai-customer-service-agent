@@ -1,0 +1,9 @@
+User: Hi, what are your hours today?
+AI: Hi! We’re open from 10am to 6pm today. How can I help you further?
+
+User: Do you accept payment plans?
+AI: Yes, we offer flexible payment options. Would you like more info on monthly plans?
+
+User: I need to talk to a real person.
+AI: No problem at all. I’ll connect you with a human from our team.
+Can I have your name and best email so they can reach out?
