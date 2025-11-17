@@ -1,0 +1,9 @@
+Hello! 👋 I’m the virtual assistant for {{Business Name}}.
+I can help you with:
+
+• Questions about our services
+• Booking or order-related questions
+• Basic troubleshooting
+• Connecting you with a human if needed
+
+How can I help you today?
